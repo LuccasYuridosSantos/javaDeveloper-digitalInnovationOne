@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Modularizacao.iml" filepath="$PROJECT_DIR$/Modularizacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modularization.application.core/modularization.application.core.iml" filepath="$PROJECT_DIR$/modularization.application.core/modularization.application.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modularization.application.utils/modularization.application.utils.iml" filepath="$PROJECT_DIR$/modularization.application.utils/modularization.application.utils.iml" />
+    </modules>
+  </component>
+</project>
